@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MiLista-reactJS/static/css/main.801d2f53.css",
+    "main.js": "/MiLista-reactJS/static/js/main.30927996.js",
+    "static/js/787.558f3dc2.chunk.js": "/MiLista-reactJS/static/js/787.558f3dc2.chunk.js",
+    "index.html": "/MiLista-reactJS/index.html",
+    "main.801d2f53.css.map": "/MiLista-reactJS/static/css/main.801d2f53.css.map",
+    "main.30927996.js.map": "/MiLista-reactJS/static/js/main.30927996.js.map",
+    "787.558f3dc2.chunk.js.map": "/MiLista-reactJS/static/js/787.558f3dc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801d2f53.css",
+    "static/js/main.30927996.js"
+  ]
+}
